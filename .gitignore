@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+__pycache__/
+.ipynb_checkpoints
+
+
+# Model files
+models/
+
+
